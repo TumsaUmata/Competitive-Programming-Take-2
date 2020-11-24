@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00cca05a-938b-4f83-8222-cfb970a4947b" name="Default Changelist" comment="" />
+    <list default="true" id="00cca05a-938b-4f83-8222-cfb970a4947b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,20 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data Structures/Trees/find_largest_value_in_each_tree_row.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data Structures/Trees/minimum_depth_of_binary_tree.py">
+        <entry file="file://$PROJECT_DIR$/Algorithms/recursive_digit_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,6 +52,8 @@
         <option value="$PROJECT_DIR$/Algorithms/Sorting/sort_an_array.py" />
         <option value="$PROJECT_DIR$/Data Structures/Trees.py" />
         <option value="$PROJECT_DIR$/Data Structures/Trees/minimum_depth_of_binary_tree.py" />
+        <option value="$PROJECT_DIR$/Data Structures/Trees/binary_tree_level_order_traversal_ii.py" />
+        <option value="$PROJECT_DIR$/Algorithms/recursive_digit_sum.py" />
       </list>
     </option>
   </component>
@@ -83,17 +81,6 @@
               <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="Trees" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,18 +201,20 @@
       <workItem from="1604137590859" duration="2506000" />
       <workItem from="1604318205768" duration="4916000" />
       <workItem from="1604369614286" duration="620000" />
-      <workItem from="1604385496839" duration="1292000" />
+      <workItem from="1604385496839" duration="2017000" />
+      <workItem from="1604459081269" duration="601000" />
+      <workItem from="1606203820807" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11463000" />
+    <option name="totallyTimeSpent" value="13401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2659091" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -287,8 +276,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/Sorting/sort_an_array.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Algorithms/Sorting/sort_an_array.py" />
+    <entry file="file://$PROJECT_DIR$/Data Structures/Trees/minimum_depth_of_binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Structures/Trees/find_largest_value_in_each_tree_row.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -297,10 +291,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Structures/Trees/minimum_depth_of_binary_tree.py">
+    <entry file="file://$PROJECT_DIR$/Data Structures/Trees/binary_tree_level_order_traversal_ii.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="271">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/recursive_digit_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
