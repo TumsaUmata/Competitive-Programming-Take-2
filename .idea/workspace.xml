@@ -28,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/Binary Search/search_insert_position.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Binary Search/search_a_2D_matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -64,6 +73,7 @@
         <option value="$PROJECT_DIR$/Algorithms/recursive_digit_sum.py" />
         <option value="$PROJECT_DIR$/Algorithms/Recursion/kth_symbol_in_grammar.py" />
         <option value="$PROJECT_DIR$/Algorithms/Binary Search/search_insert_position.py" />
+        <option value="$PROJECT_DIR$/Algorithms/Binary Search/search_a_2D_matrix.py" />
       </list>
     </option>
   </component>
@@ -91,6 +101,12 @@
               <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary Search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,12 +253,12 @@
       <workItem from="1604369614286" duration="620000" />
       <workItem from="1604385496839" duration="2017000" />
       <workItem from="1604459081269" duration="601000" />
-      <workItem from="1606203820807" duration="6404000" />
+      <workItem from="1606203820807" duration="9020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19193000" />
+    <option name="totallyTimeSpent" value="21809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -347,8 +363,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Binary Search/search_insert_position.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Binary Search/search_a_2D_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
