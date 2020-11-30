@@ -16,15 +16,16 @@
     <SUITE FILE_PATH="coverage/A2SV____Take_2$cycle_detection.coverage" NAME="cycle_detection Coverage Results" MODIFIED="1604046973502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linked List" />
     <SUITE FILE_PATH="coverage/A2SV____Take_2$recursive_digit_sum.coverage" NAME="recursive_digit_sum Coverage Results" MODIFIED="1606213694457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms/Recursion" />
     <SUITE FILE_PATH="coverage/A2SV____Take_2$word_search.coverage" NAME="word_search Coverage Results" MODIFIED="1606412739627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms/Graph Traversal" />
+    <SUITE FILE_PATH="coverage/A2SV____Take_2$populating_next_right_pointers_in_each_node.coverage" NAME="populating_next_right_pointers_in_each_node Coverage Results" MODIFIED="1606639149934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structures/Trees" />
     <SUITE FILE_PATH="coverage/A2SV____Take_2$merge_intervals.coverage" NAME="merge_intervals Coverage Results" MODIFIED="1604047632665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data Structures/Trees/is_symmetric.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -32,8 +33,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data Structures/Trees/binary_tree_level_order_traversal_ii.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="28" />
+            <state>
+              <caret selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data Structures/Trees/populating_next_right_pointers_in_each_node.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-105">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -74,6 +84,7 @@
         <option value="$PROJECT_DIR$/Algorithms/Recursion/word_search.py" />
         <option value="$PROJECT_DIR$/Algorithms/Recursion/generate_parentheses.py" />
         <option value="$PROJECT_DIR$/Data Structures/Trees/is_symmetric.py" />
+        <option value="$PROJECT_DIR$/Data Structures/Trees/populating_next_right_pointers_in_each_node.py" />
       </list>
     </option>
   </component>
@@ -100,18 +111,7 @@
             <path>
               <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="Contests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.word_search">
+  <component name="RunManager" selected="Python.populating_next_right_pointers_in_each_node">
     <configuration name="construct_k_palindrome_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="A2SV  - Take 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="merge_intervals" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="populating_next_right_pointers_in_each_node" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="A2SV  - Take 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,12 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structures/Trees" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/merge_intervals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structures/Trees/populating_next_right_pointers_in_each_node.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.populating_next_right_pointers_in_each_node" />
         <item itemvalue="Python.word_search" />
         <item itemvalue="Python.construct_k_palindrome_strings" />
         <item itemvalue="Python.recursive_digit_sum" />
         <item itemvalue="Python.sort_an_array" />
-        <item itemvalue="Python.merge_intervals" />
       </list>
     </recent_temporary>
   </component>
@@ -291,18 +291,19 @@
       <workItem from="1606500564897" duration="1724000" />
       <workItem from="1606567186379" duration="628000" />
       <workItem from="1606631684154" duration="1220000" />
-      <workItem from="1606637773738" duration="238000" />
+      <workItem from="1606637773738" duration="1642000" />
+      <workItem from="1606718343359" duration="748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51760000" />
+    <option name="totallyTimeSpent" value="53823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20454545" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,7 +317,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3306189" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3306189" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -440,17 +441,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Structures/Trees/binary_tree_level_order_traversal_ii.py">
+    <entry file="file://$PROJECT_DIR$/Data Structures/Trees/is_symmetric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Structures/Trees/is_symmetric.py">
+    <entry file="file://$PROJECT_DIR$/Data Structures/Trees/binary_tree_level_order_traversal_ii.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structures/Trees/populating_next_right_pointers_in_each_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
