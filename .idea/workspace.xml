@@ -14,6 +14,7 @@
     <SUITE FILE_PATH="coverage/A2SV____Take_2$construct_k_palindrome_strings.coverage" NAME="construct_k_palindrome_strings Coverage Results" MODIFIED="1606288677923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/Nov 25" />
     <SUITE FILE_PATH="coverage/A2SV____Take_2$sort_an_array.coverage" NAME="sort_an_array Coverage Results" MODIFIED="1604325576977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms/Sorting" />
     <SUITE FILE_PATH="coverage/A2SV____Take_2$cycle_detection.coverage" NAME="cycle_detection Coverage Results" MODIFIED="1604046973502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linked List" />
+    <SUITE FILE_PATH="coverage/A2SV____Take_2$count_primes.coverage" NAME="count_primes Coverage Results" MODIFIED="1606827419179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms/Numerics" />
     <SUITE FILE_PATH="coverage/A2SV____Take_2$recursive_digit_sum.coverage" NAME="recursive_digit_sum Coverage Results" MODIFIED="1606213694457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms/Recursion" />
     <SUITE FILE_PATH="coverage/A2SV____Take_2$word_search.coverage" NAME="word_search Coverage Results" MODIFIED="1606412739627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms/Graph Traversal" />
     <SUITE FILE_PATH="coverage/A2SV____Take_2$populating_next_right_pointers_in_each_node.coverage" NAME="populating_next_right_pointers_in_each_node Coverage Results" MODIFIED="1606639149934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structures/Trees" />
@@ -22,39 +23,12 @@
     <SUITE FILE_PATH="coverage/A2SV____Take_2$check.coverage" NAME="check Coverage Results" MODIFIED="1606721088502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/Nov 30" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Contests/Nov 30/corporate_flight_bookings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Contests/Nov 30/defanging_an_id_address.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Contests/Nov 30/delete_nodes_and_return_forest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Contests/Nov 30/maximum_nesting_depth_of_two_valid_parentheses_strings.py">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Numerics/pow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -104,6 +78,9 @@
         <option value="$PROJECT_DIR$/Contests/Nov 30/defanging_an_id_address.py" />
         <option value="$PROJECT_DIR$/Contests/Nov 30/delete_nodes_and_return_forest.py" />
         <option value="$PROJECT_DIR$/Contests/Nov 30/maximum_nesting_depth_of_two_valid_parentheses_strings.py" />
+        <option value="$PROJECT_DIR$/Algorithms/Numerics/complex_number_multiplication.py" />
+        <option value="$PROJECT_DIR$/Algorithms/Numerics/count_primes.py" />
+        <option value="$PROJECT_DIR$/Algorithms/Numerics/pow.py" />
       </list>
     </option>
   </component>
@@ -130,13 +107,7 @@
             <path>
               <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Contests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="A2SV  - Take 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="A2SV  - Take 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Contests" type="462c0819:PsiDirectoryNode" />
-              <item name="Nov 30" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.check2">
+  <component name="RunManager" selected="Python.count_primes">
     <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="A2SV  - Take 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="construct_k_palindrome_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="count_primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="A2SV  - Take 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,12 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/Nov 25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/Numerics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/Nov 25/construct_k_palindrome_strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/Numerics/count_primes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.count_primes" />
         <item itemvalue="Python.check2" />
         <item itemvalue="Python.check" />
         <item itemvalue="Python.populating_next_right_pointers_in_each_node" />
         <item itemvalue="Python.word_search" />
-        <item itemvalue="Python.construct_k_palindrome_strings" />
       </list>
     </recent_temporary>
   </component>
@@ -318,23 +289,24 @@
       <workItem from="1606631684154" duration="1220000" />
       <workItem from="1606637773738" duration="1642000" />
       <workItem from="1606718343359" duration="6226000" />
-      <workItem from="1606745844228" duration="196000" />
+      <workItem from="1606745844228" duration="1427000" />
+      <workItem from="1606825048424" duration="2908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59497000" />
+    <option name="totallyTimeSpent" value="63636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21060605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21363637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -495,28 +467,45 @@
     <entry file="file://$PROJECT_DIR$/Contests/Nov 30/corporate_flight_bookings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Contests/Nov 30/defanging_an_id_address.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/Nov 30/maximum_nesting_depth_of_two_valid_parentheses_strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Contests/Nov 30/delete_nodes_and_return_forest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/Nov 30/maximum_nesting_depth_of_two_valid_parentheses_strings.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/Numerics/complex_number_multiplication.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Numerics/count_primes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="15">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Numerics/pow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
